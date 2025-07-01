@@ -2,7 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import random
 
-# Set random seed for reproducibility
+# random seed for reproducibility
 random.seed(42)
 
 # Parameters
